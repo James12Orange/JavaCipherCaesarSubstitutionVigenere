@@ -1,0 +1,19 @@
+Output: TKAQXEYDBUKSGFRTJXILLOYANTKALDVUDRC
+
+
+-------------------------------------------------------------------------------------
+
+Total Output Console Below:
+
+C:\Users\jmo5660\.jdks\corretto-1.8.0_302\bin\java.exe -javaagent:C:\Users\jmo5660\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\lib\idea_rt.jar=53213:C:\Users\jmo5660\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\bin -Dfile.encoding=UTF-8 -classpath C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\charsets.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\WheelsFX-1.0.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\access-bridge-64.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\cldrdata.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\dnsns.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\jaccess.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\jfxrt.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\localedata.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\nashorn.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\sunec.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\sunjce_provider.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\sunmscapi.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\sunpkcs11.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\ext\zipfs.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\jce.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\jfr.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\jfxswt.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\jsse.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\management-agent.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\resources.jar;C:\Users\jmo5660\.jdks\corretto-1.8.0_302\jre\lib\rt.jar;C:\Users\jmo5660\Assignment11\out\production\Assignment11 Cipher
+What Cipher do you want to use (select number)? [1 - Substitution 2 - Caesar 3 - Vignere]
+3
+Enter Input File with full file path:
+C:\Users\jmo5660\Assignment11\resources\fox.txt
+Enter output File with full file path:
+C:\Users\jmo5660\Assignment11\resources\Vigenere_execution.txt
+Input Vigenere Cipher Key
+hellothere
+TKAQXEYDBUKSGFRTJXILLOYANTKALDVUDRC
+
+Process finished with exit code 0
